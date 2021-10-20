@@ -2,7 +2,7 @@
 	"token": "ODcxNjY4MjQ3MDU1OTgyNjAy.YQeqUA.RtzFdi4SXgawRsA8sG6-tv_JJzc",
 	"dataURL" : "mongodb+srv://murkote:nFy-nxv-5yH-NtD@bots.d6p06.mongodb.net/yupi?retryWrites=true&w=majority",
 	"owners_guild": ["871497358532309034", "881210392796352513"],
-	"prefix": ".",
+	"prefix": "-",
 	"owners": ["402358666759766017","582580063963316244", "828007305306963999"],
 	"buyer": ["402358666759766017","582580063963316244", "828007305306963999"],
 	"moderations": ["402358666759766017", "582580063963316244", "828007305306963999"],
